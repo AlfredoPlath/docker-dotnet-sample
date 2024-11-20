@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Pages",
-    "\\tests\\obj"
+    "\\src\\Pages"
   ],
-  "SelectedNode": "\\src\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
