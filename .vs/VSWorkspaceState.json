@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\src",
     "\\src\\Pages"
   ],
+  "SelectedNode": "\\.github\\workflows\\main.yml",
   "PreviewInSolutionExplorer": false
 }
